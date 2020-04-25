@@ -9,6 +9,8 @@
 * Numpy
 * garbage images [here](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
 
+## Pre-trained model
+* Download the official pre-trained resnet_v1_50 model from [here](http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz)
 ## Usage 
 1'  Make sure that you have already changed file directory to the right format.
 
